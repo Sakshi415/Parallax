@@ -1,2 +1,2 @@
 # Parallax
-https://saurabh9495.github.io/landingpage_test/
+https://sakshi10-star.github.io/Parallax/
